@@ -26,7 +26,7 @@
 <a href="https://instagram.com/https://www.instagram.com/ignacio.qs.3d/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.behance.net/https://www.artstation.com/ignacioquiros" target="_blank">
+<a href="https://www.artstation.com/ignacioquiros" target="_blank">
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>  
   
